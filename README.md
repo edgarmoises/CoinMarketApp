@@ -1,7 +1,8 @@
 # CoinMarketApp
-React native app using CoinMarketCap api V2.
+React native app that lists all the cryptocurrencies from Coinmarketcap. Supports both platforms iOS/Android. 
 
 ## Features
+* Uses CoinMarketCap api V2
 * Axus for http requests
 * Redux for state managment
 * Realm for local storage
